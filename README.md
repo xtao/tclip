@@ -5,12 +5,13 @@ Just a python bindings for [tclip](https://github.com/exinnet/tclip)
 OpenCV Install
 --------------
 Follow the guide:
-1. https://help.ubuntu.com/community/OpenCV
-2. https://github.com/jayrambhia/Install-OpenCV
+
+- https://help.ubuntu.com/community/OpenCV
+- https://github.com/jayrambhia/Install-OpenCV
 
 Tclip install
 -------------
-1. `python setup.py install`
+`python setup.py install`
 
 Quickstart
 ----------
